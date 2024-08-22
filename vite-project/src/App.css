@@ -1,0 +1,29 @@
+.product{
+    width: fit-content;
+    padding: 20px;
+    background-color: lightgray;
+    margin: 10px;
+}
+
+.user{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    width: fit-content;
+}
+
+.country, .fruit{
+    width: fit-content;
+    padding: 20px;
+    background-color: lightblue;
+    margin: 10px;
+}
+
+.fruits-container{
+    display: flex;
+}
+
+button{
+    padding: 10px;
+    margin: 10px;
+}
